@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+paper_ledger.json
+.env

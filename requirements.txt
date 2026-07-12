@@ -1,0 +1,6 @@
+langgraph>=0.2
+yfinance>=0.2
+pandas>=2.0
+numpy>=1.26
+mcp>=1.0
+pytest>=8.0
